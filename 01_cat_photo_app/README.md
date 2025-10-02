@@ -16,3 +16,7 @@ The goal of this workshop was to get hands-on practice with foundational HTML el
 
 - Practiced semantic HTML elements.
 - Learned how to properly structure a page with headings, paragraphs, and lists.
+
+## Screenshot
+
+![alt text](image.png)
