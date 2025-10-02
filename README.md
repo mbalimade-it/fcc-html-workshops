@@ -4,7 +4,7 @@ This repository contains all my HTML workshops from the **FreeCodeCamp Full Stac
 
 ## Overview
 
-Workshops are guided exercises where I learned and practiced foundational HTML concepts. Each workshop focuses on a specific set of skills.
+Workshops are guided exercises where I learned and practiced HTML concepts. Each workshop focuses on a specific set of skills.
 
 ## How to Use
 
@@ -14,8 +14,12 @@ Workshops are guided exercises where I learned and practiced foundational HTML c
 
 ---
 
-# [Workshop Projects](https://mbalimade-it.github.io/fcc-html-workshops/)
+# Workshop Projects
 
 ### [01. Cat Photo App](https://mbalimade-it.github.io/fcc-html-workshops/01_cat_photo_app)
 
 _basic HTML elements, headings, paragraphs, images, links, lists_
+
+### [02. Heart Icon](https://mbalimade-it.github.io/fcc-html-workshops/02_heart_icon)
+
+_SVG, path_
