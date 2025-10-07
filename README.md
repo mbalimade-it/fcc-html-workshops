@@ -31,3 +31,11 @@ _iframe_
 ### [04. Cat Blog](https://mbalimade-it.github.io/fcc-html-workshops/04_cat_blog)
 
 _semantic elements, nav, main, article, footer_
+
+### [05. Hotel Feedback Form](https://mbalimade-it.github.io/fcc-html-workshops/05_hotel_feedback_form)
+
+_form element, label, input, select, textarea_
+
+### [06. Final Exam Time Table](https://mbalimade-it.github.io/fcc-html-workshops/056_final_exam_time_table)
+
+_table element, thead, th, tr, td_
