@@ -23,3 +23,11 @@ _basic HTML elements, headings, paragraphs, images, links, lists_
 ### [02. Heart Icon](https://mbalimade-it.github.io/fcc-html-workshops/02_heart_icon)
 
 _SVG, path_
+
+### [03. Video Display using iframe](https://mbalimade-it.github.io/fcc-html-workshops/03_video_display_using_iframe)
+
+_iframe_
+
+### [04. Cat Blog](https://mbalimade-it.github.io/fcc-html-workshops/04_cat_blog)
+
+_semantic elements, nav, main, article, footer_
