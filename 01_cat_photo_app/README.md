@@ -1,21 +1,10 @@
 # Cat Photo App
 
-In this workshop, I learned how to work with basic HTML elements including:
+This is a simple recipe page that uses basic HTML elements such as: headings, paragraphs, images, links, and lists.
 
-- Headings
-- Paragraphs
-- Images
-- Links
-- Lists
+The goal of this lab was to get hands-on practice with foundational HTML elements and understand how to structure a simple webpage.
 
-## Objective
-
-The goal of this workshop was to get hands-on practice with foundational HTML elements and understand how to structure a simple webpage.
-
-## Notes
-
-- Practiced semantic HTML elements.
-- Learned how to properly structure a page with headings, paragraphs, and lists.
+In short, I learned how to properly structure a page with headings, paragraphs, and lists.
 
 ## Screenshot
 
