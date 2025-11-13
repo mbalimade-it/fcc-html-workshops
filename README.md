@@ -36,6 +36,10 @@ _semantic elements, nav, main, article, footer_
 
 _form element, label, input, select, textarea_
 
-### [06. Final Exam Time Table](https://mbalimade-it.github.io/fcc-html-workshops/056_final_exam_time_table)
+### [06. Final Exam Time Table](https://mbalimade-it.github.io/fcc-html-workshops/06_final_exam_time_table)
 
 _table element, thead, th, tr, td_
+
+### [07. Bookstore Page](https://mbalimade-it.github.io/fcc-html-workshops/07_bookstore_page)
+
+_class, id_
