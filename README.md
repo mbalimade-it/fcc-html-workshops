@@ -43,3 +43,7 @@ _table element, thead, th, tr, td_
 ### [07. Bookstore Page](https://mbalimade-it.github.io/fcc-html-workshops/07_bookstore_page)
 
 _class, id_
+
+### [08. List of Web Browsers](https://mbalimade-it.github.io/fcc-html-workshops/08_list_of_web_browsers)
+
+_description lists_
