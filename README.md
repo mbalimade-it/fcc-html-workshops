@@ -51,3 +51,7 @@ _description lists_
 ### [09. Tech Conference Schedule Table](https://mbalimade-it.github.io/fcc-html-workshops/09_tech_conference_schedule_table)
 
 _table_
+
+### [10. Accessible Audio Controller](https://mbalimade-it.github.io/fcc-html-workshops/10_accessible_audio_controller)
+
+_accessibility, audio_
