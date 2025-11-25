@@ -47,3 +47,7 @@ _class, id_
 ### [08. List of Web Browsers](https://mbalimade-it.github.io/fcc-html-workshops/08_list_of_web_browsers)
 
 _description lists_
+
+### [09. Tech Conference Schedule Table](https://mbalimade-it.github.io/fcc-html-workshops/09_tech_conference_schedule_table)
+
+_table_
