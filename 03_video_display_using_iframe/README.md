@@ -1,6 +1,18 @@
-# Video Display using iframe
+# Display Videos in an iframe
 
-In this workshop, I learned how to work with the iframe element and its attributes.
+A simple webpage demonstrating how to embed YouTube videos using an iframe element.
+
+## Features
+
+- Embedded YouTube video player
+- Fullscreen capability
+- Responsive video dimensions
+- Security and permission controls
+
+## Technologies
+
+- HTML5
+- iframe element
 
 ## Screenshot
 

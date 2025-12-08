@@ -1,8 +1,21 @@
-# Heart Icone
+# Heart Icon
 
-This was a fun short workshop. I learned how to create a heart icon using SVG element, luckily something I will most likely never get to code from scratch. Right?
+A simple red heart icon created using SVG (Scalable Vector Graphics).
 
-The goal of this workshop was to get hands-on practice with SVG elements by creating a simple heart icon.
+## Features
+
+- Vector-based heart shape that scales without quality loss
+- Custom path coordinates for precise shape control
+- Filled with red color
+
+## Technologies
+
+- HTML5
+- SVG
+
+## Usage
+
+This SVG heart can be easily integrated into web projects and scaled to any size without pixelation.
 
 ## Screenshot
 

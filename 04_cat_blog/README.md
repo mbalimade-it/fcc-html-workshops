@@ -1,8 +1,25 @@
-# Cat Blog
+# Mr. Whiskers' Blog
 
-In this workshop I created a cat blog page to apply my learning of semantic html elements such as: `main`, `nav`, `article` and `footer` elements.
+A personal blog about a cat named Mr. Whiskers, featuring stories and updates about his adventures.
 
-I learned and applied the `address` element. I also learned how to link the company's phone number and email to the `anchor` tag so that when the user presses on the link, the website will take them directly to the company's email address or the phone number to be called. Since there was tons of text needed to make the website seem real, I used placeholder text from the lorem ipsum site.
+## Features
+
+- Navigation menu with anchor links to different sections
+- About section introducing the blog author
+- Multiple blog post articles
+- Contact section with phone and email links
+- Semantic HTML structure with proper use of header, main, and footer elements
+
+## Technologies
+
+- HTML5
+
+## Sections
+
+- **Header** - Blog title, featured image, and navigation menu
+- **About** - Introduction to the blog author and Mr. Whiskers
+- **Posts** - Collection of blog articles about Mr. Whiskers' adventures
+- **Contact** - Contact information with clickable phone and email links
 
 ## Screenshot
 

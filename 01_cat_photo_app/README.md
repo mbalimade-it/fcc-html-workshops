@@ -1,10 +1,24 @@
-# Cat Photo App
+# CatPhotoApp
 
-This is a simple recipe page that uses basic HTML elements such as: headings, paragraphs, images, links, and lists.
+A simple cat photo gallery website with lists of things cats love and hate.
 
-The goal of this lab was to get hands-on practice with foundational HTML elements and understand how to structure a simple webpage.
+## Features
 
-In short, I learned how to properly structure a page with headings, paragraphs, and lists.
+- Cat photo gallery with external links
+- Clickable images that link to external pages
+- Lists of cat preferences (loves and hates)
+- Images with captions using semantic HTML
+- Footer with attribution
+
+## Technologies
+
+- HTML5
+
+## Sections
+
+- **Cat Photos** - Gallery of cat images with links
+- **Cat Lists** - Organized lists of cat behaviors and preferences
+- **Footer** - Copyright and attribution information
 
 ## Screenshot
 

@@ -1,10 +1,24 @@
-# Final Exam Time Table
+# Calculus Final Exams Table
 
-This is an exam time table that shows students grades.
+A simple HTML table displaying student names and their calculus final exam grades with an average calculation.
 
-This project was made to learn the `table` elemnt in html.
+## Features
 
-I learned how to apply the `caption` element and then I learned how to structure a table by using the `thead`, `th`, `tr`, and `tfoot` elements.
+- Organized table with semantic structure
+- Student information (last name, first name, grade)
+- Table footer showing the average grade
+- Column spanning for cleaner layout
+
+## Technologies
+
+- HTML5
+- Table elements
+
+## Table Contents
+
+- **Header** - Column titles (Last Name, First Name, Grade)
+- **Body** - Five student records with their grades
+- **Footer** - Average grade calculation across all students
 
 # Screenshot
 
